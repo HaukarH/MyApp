@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MijnApp</string>
+    <string name="seeDeck">Zie decks</string>
+    <string name="seeCard">Zie kaarten</string>
+    <string name="cardsButton">Selecteer een deck</string>
+    <string name="switchLan">(Engels/Nederlands</string>
+    <string name="switchBut">Verander taal</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <!--Main-->
+    <string name="app_name">MyApp</string>
+    <string name="seeDeck">See decks</string>
+    <string name="seeCard">See cards</string>
+    <string name="switchLan">(English/Dutch)</string>
+    <string name="switchBut">Switch language</string>
+
+    <!--Deck Names-->
+    <string-array name="deck_name">
+        <item>Starter Deck: Yugi</item>
+        <item>Starter Deck: Kaiba</item>
+        <item>Starter Deck: Joey</item>
+        <item>Starter Deck: Pegasus</item>
+    </string-array>
+
+    <!--Spinner selection-->
+    <string name="cardsButton">Select a deck</string>
+    <string-array name="spinnerOptions">
+        <item>Select a deck:</item>
+        <item>Starter Deck: Yugi</item>
+        <item>Starter Deck: Kaiba</item>
+        <item>Starter Deck: Joey</item>
+        <item>Starter Deck: Pegasus</item>
+    </string-array>
+
+</resources>

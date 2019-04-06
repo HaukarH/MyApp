@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="yugiCards">
+        <item>Summoned Skull</item>
+        <item>Dark Magician</item>
+        <item>Gaia the Fierce Knight</item>
+        <item>Curse of Dragon</item>
+        <item>Celtic Guardian</item>
+    </string-array>
+
+    <string-array name="kaibaCards">
+        <item>Blue-Eyes White Dragon</item>
+        <item>Battle Ox</item>
+        <item>Judge Man</item>
+    </string-array>
+
+    <string-array name="joeyCards">
+        <item>Red-Eyes B. Dragon</item>
+        <item>Baby Dragon</item>
+        <item>Time Wizard</item>
+        <item>Thousand Dragon</item>
+        <item>Flame Swordsman</item>
+    </string-array>
+
+    <string-array name="pegasusCards">
+        <item>Relinquished</item>
+        <item>Blue-Eyes Toon Dragon</item>
+        <item>Toon Summoned Skull</item>
+    </string-array>
+
+</resources>
